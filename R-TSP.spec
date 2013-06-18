@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0.7
-Release:          1
+Release:          2
 Summary:          Traveling Salesperson Problem (TSP)
 Group:            Sciences/Mathematics
 License:          GPL-2
